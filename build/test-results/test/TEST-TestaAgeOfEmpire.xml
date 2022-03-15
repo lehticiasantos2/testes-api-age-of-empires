@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestaAgeOfEmpire" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-15T19:36:15" hostname="NOTELE" time="4.486">
+  <properties/>
+  <testcase name="Quando pegar as tecnologias , entÃ£o a lista deve retornar todas as tecnologias cadastradas" classname="TestaAgeOfEmpire" time="4.486"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
